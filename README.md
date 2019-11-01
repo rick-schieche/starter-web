@@ -16,4 +16,4 @@ Sample website with plenty of files for demos
 =======
 
 ### Copyright
-2019
+2019  All rights reserved
